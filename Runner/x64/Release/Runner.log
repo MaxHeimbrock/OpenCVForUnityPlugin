@@ -1,0 +1,3 @@
+﻿  Runner.cpp
+c:\users\max\source\repos\opencv_unity_lib\runner\runner.cpp(78): error C2660: "FindPlane": Funktion akzeptiert keine 2 Argumente
+  c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\header.h(18): note: Siehe Deklaration von "FindPlane"

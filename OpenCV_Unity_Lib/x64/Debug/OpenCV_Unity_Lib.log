@@ -1,0 +1,53 @@
+﻿  Quelle.cpp
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(74): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(76): warning C4244: "Argument": Konvertierung von "float" in "_Tp", möglicher Datenverlust
+          with
+          [
+              _Tp=int
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(143): warning C4305: "=": Verkürzung von "double" in "_Tp"
+          with
+          [
+              _Tp=float
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(145): warning C4305: "=": Verkürzung von "double" in "_Tp"
+          with
+          [
+              _Tp=float
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(147): warning C4305: "=": Verkürzung von "double" in "_Tp"
+          with
+          [
+              _Tp=float
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(148): warning C4305: "=": Verkürzung von "double" in "_Tp"
+          with
+          [
+              _Tp=float
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(154): warning C4305: "Argument": Verkürzung von "double" in "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(155): warning C4305: "Argument": Verkürzung von "double" in "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(156): warning C4305: "Argument": Verkürzung von "double" in "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(157): warning C4305: "Argument": Verkürzung von "double" in "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+c:\users\max\source\repos\opencv_unity_lib\opencv_unity_lib\quelle.cpp(158): warning C4305: "Argument": Verkürzung von "double" in "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+  OpenCV_Unity_Lib.vcxproj -> C:\Users\Max\source\repos\OpenCV_Unity_Lib\x64\Debug\OpenCV_Unity_Lib.dll
